@@ -1,0 +1,7 @@
+site_name: My Docs
+
+nav:
+- '主页': "index.md"
+- '课程笔记':
+  - '1': "some articles/quickstart.md"
+  - '2': "some articles/how-to-use-MkDocs.md"
